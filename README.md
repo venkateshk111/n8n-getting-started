@@ -27,4 +27,6 @@
 ## Reference
 
 - [n8n](https://n8n.io/)
+- [n8n github](https://github.com/n8n-io/n8n)
+- 📖 [n8n Community Tutorials](https://community.n8n.io/c/tutorials/28)
 - [Complete n8n Masterclass: Build Al Agents & Automate Workflows (Zero to Hero)](https://youtu.be/DkV7ztrhLh8?si=vbswg7qXdmCy1fn6)
